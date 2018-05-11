@@ -11,7 +11,7 @@
     <properties>
         <!-- This is used for the RPM revision which must be at most 10 chars for Spacewalk to work -->
         <maven.build.timestamp.format>yyMMddHHmm</maven.build.timestamp.format>
-        <rpm.version>1.1.0</rpm.version> <!--  can't have letters or dashes -->
+        <rpm.version>1.2.0</rpm.version> <!--  can't have letters or dashes -->
         <rpm.name>jimbydamonk_test</rpm.name>
         <git.branch.sanitized></git.branch.sanitized>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
